@@ -1,0 +1,7 @@
+streamlit
+dash
+pandas
+numpy
+plotly.express
+matplotlib
+seaborn
